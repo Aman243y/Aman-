@@ -1,0 +1,7 @@
+(i) 'var1' is a string containing a single space character, so its data type is 'str' (string).
+
+(ii) 'var2' is a string that represents a list of words, but it's still a string. It's not a valid Python list because it's enclosed in single quotes, its data type is 'str'.
+
+(iii) 'var3' is a list of strings. The data type of var3 is 'list'.
+
+(iv) 'var4' is an integer with the value of 1, so its data type is 'int' (integer).
